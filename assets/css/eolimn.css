@@ -58,7 +58,7 @@
   --eolimn-text-dark-rgb: 32, 34, 32;
   --eolimn-text-dark2: #1E2436;
   --eolimn-text-dark2-rgb: 30, 36, 54;
-  --eolimn-base: #f63138;
+  --eolimn-base: #151b52;
   --eolimn-base-rgb: 96, 172, 69;
   --eolimn-white: #fff;
   --eolimn-white-rgb: 255, 255, 255;
@@ -10521,7 +10521,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .page-header {
   background-color: var(--eolimn-text-dark, #202220);
   position: relative;
-  padding: 114.5px 0px;
+  padding: 55px 0px;
 }
 @media (max-width: 991px) {
   .page-header {
@@ -10563,7 +10563,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 @media (min-width: 768px) {
   .page-header__title {
-    font-size: 55px;
+    font-size: 48px;
   }
 }
 
@@ -10912,7 +10912,7 @@ body.megamenu-popup-active .mobile-nav__content {
   margin: 0 0 30px;
   font-style: normal;
   font-weight: 800;
-  font-size: 90px;
+  font-size: 60px;
   line-height: 111%;
   letter-spacing: -0.03em;
   text-transform: capitalize;
