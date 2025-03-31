@@ -5013,6 +5013,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .funfact-one__list .funfact-one__list__item {
   padding: 38px 38px 30px;
+  width:33%;
 }
 @media (max-width: 991px) {
   .funfact-one__list .funfact-one__list__item {
